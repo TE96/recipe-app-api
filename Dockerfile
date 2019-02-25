@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER fuwuchen
+# MAINTAINER fuwuchen
 
 ENV PYTHONUNBUFFERED 1
 
